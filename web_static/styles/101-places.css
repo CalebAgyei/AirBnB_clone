@@ -1,0 +1,4 @@
+.container .places  {
+    display: flex;
+    flex-wrap: wrap;
+}
